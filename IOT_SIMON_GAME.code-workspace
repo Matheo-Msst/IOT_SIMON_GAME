@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "IOT_SIMON_GAME",
+			"path": "../../../../Bureau/github/IOT_SIMON_GAME"
+		},
+		{
+			"name": "SIMON_GAME_ESP32",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

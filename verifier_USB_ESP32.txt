@@ -1,0 +1,6 @@
+ls /dev/ttyUSB*
+
+si rien :
+
+sudo usermod -a -G dialout $USER
+sudo reboot
